@@ -26,6 +26,10 @@ kaggleからirisデータセットをダウンロードする。
 ```bash
 kaggle datasets download -d <dataset-name>
 ```
+or
+```url
+https://www.kaggle.com/datasets/himanshunakrani/iris-dataset
+```
 
 # tutorial用プログラムのインストール
 ```bash
